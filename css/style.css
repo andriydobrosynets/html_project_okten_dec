@@ -669,17 +669,6 @@ a{
     padding: 5px 0;
     border-bottom: 1px solid #2F2F2F;
 }
-.drop_down__item_filter:last-child {
-    border: none;
-}
-.drop_down__item_filter a{
-    text-decoration: none;
-    color:#2F2F2F;
-}
-.drop_down__item_filter a:hover{
-    text-decoration: none;
-    color:#CB3B48;
-}
 .button_nav_menu{
     background-color: #FFFFFF;
     box-shadow: #FFFFFF;
